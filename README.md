@@ -1,5 +1,4 @@
-                            ### Hi 👋🏽, I'm Mohammad Mohsin 👋
-                                 An  IOS Developer.
+###                                                                                              Hi 👋🏽, I'm Mohammad Mohsin 👋. An  IOS Developer.
 
 <!--
 **mohsin1150/mohsin1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
